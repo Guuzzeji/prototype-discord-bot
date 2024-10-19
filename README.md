@@ -24,6 +24,15 @@ This is a prototype discord bot that should be used as a starting point for deve
 
 https://discord.com/developers/applications
 
+## .env File example
+
+```txt
+TOKEN=<DISCORD BOT TOKEN>
+CLIENT_ID=><DISCORD CLIENT ID>
+SERVER_ID=<DISCORD SERVER ID>
+CHANNEL_ID=<DISCORD CHANNEL ID IN SERVER>
+```
+
 ## Getting Started
 
 To install dependencies:
